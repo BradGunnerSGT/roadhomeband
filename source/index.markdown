@@ -17,7 +17,7 @@ ROAD HOME derives its name from one of Kevin’s original songs, entitled "This
 Road Goes Home".  This song describes someone who has left the comforts of home
 and ventured out onto the Road toward his dreams.  He realizes that the Road is
 a lonely and harsh place, and is tempted to just take the next exit, hang a
-u-turn, and head back home.  The protaganist refuses this easy choice, {" "turned
-the music way up high, to forget about what I’ve left behind" "} and continues on
+u-turn, and head back home.  The protaganist refuses this easy choice, "{"...turned
+the music way up high, to forget about what I’ve left behind..."}" and continues on
 the Road to chase his dreams.   Are you on the Road?
 {% endpullquote %}
