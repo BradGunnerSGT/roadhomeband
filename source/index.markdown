@@ -5,6 +5,8 @@ sharing: true
 footer: true
 ---
 
+{% img /images/custom/band-pic-large.jpg %}
+
 ROAD HOME is an up and coming band based out of the San Antonio, Texas area.
 We blend Country, Americana, and Rock into a very unique experience.
 Introspective lyrics and catchy "stick-in-your-mind-for days" melodies are
