@@ -18,13 +18,13 @@ Time Warner Cable subscribers in Texas can access the On Demand channel 988 and 
 The following performances were recorded August 2012 at Neal's Lodge in Concan, TX.
 
 #### Living Life on Empty
-<iframe  width="80%" src="http://www.youtube.com/embed/SnaeFU2wRTQ" frameborder="0" allowfullscreen></iframe>
+{% youtube SnaeFU2wRTQ %}
 
 #### Lady Liberty
-<iframe  width="80%" src="http://www.youtube.com/embed/Sh_ZcuZzJc0" frameborder="0" allowfullscreen></iframe>
+{% youtube Sh_ZcuZzJc0 %}
 
 #### Don't Turn Away
-<iframe  width="80%" src="http://www.youtube.com/embed/qu9P2dQFfkc" frameborder="0" allowfullscreen></iframe>
+{% youtube qu9P2dQFfkc %}
 
 #### Middle of Nowhere
-<iframe  width="80%" src="http://www.youtube.com/embed/EzK4WJpxyTk" frameborder="0" allowfullscreen></iframe>
+{% youtube EzK4WJpxyTk %}
