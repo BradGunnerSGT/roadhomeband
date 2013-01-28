@@ -4,16 +4,47 @@ title: "gigs"
 comments: false
 sharing: false
 footer: false
+gigs: 
+ - date: 2013-01-25 21:00:00 -0600
+   venue: The Cocky Rooster
+   city: Comfort, TX
+   website: http://www.facebook.com/pages/The-Cocky-Rooster-Bar/316222695121
+ - date: 2013-03-08
+   venue: Corpus Christi Harley Davidson
+   city: Corpus Christi, TX
+   website: http://www.corpuschristiharley.com/
+   map: http://goo.gl/maps/WxjJc
+
 ---
 
+<p>
 We can't wait to see you at our next gig!  Come out, grab a cold one, and enjoy some live Texas music.
+<p>
 
-## 2013
+<div class="blog-index">
+  {% for gig in page.gigs reversed %}
+    <article>
+      {{ gig.date | date_to_string }} -
 
-- Jan 25 - Cocky Rooster in Comfort, TX
+    {% if gig.website %}
+      <a href="{{ gig.website }}">{{ gig.venue }}</a>
+    {% else %}
+      {{ gig.venue }}
+    {% endif %}
+
+    {% if gig.city %}
+      in {{ gig.city }}
+    {% endif %}
+
+    {% if gig.map %}
+      (<a href="{{map}}">map</a>)
+    {% endif %}
+    </article>
+  {% endfor %}
 
 
-## 2012
-
-
+  <div class="pagination">
+    <a href="/gigs/archives">Gigs Archive</a>
+  </div>
+</div>
 
