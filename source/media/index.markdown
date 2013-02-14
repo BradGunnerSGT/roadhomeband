@@ -12,7 +12,9 @@ We are in the process of finalizing our first album, available soon on iTunes an
 Follow our [Youtube channel](http://www.youtube.com/user/roadhomeband) for the latest performances from Road Home.
 
 ### Time Warner Cable
-Time Warner Cable subscribers in Texas can access the On Demand channel 988 and search for the San Antonio live music show.  Our episode should be available as of January 2013.
+Time Warner Cable subscribers in Texas can access the On Demand channel 988 and find the "Science of Sound" series under the "music" category.  Our episode should be available as of Spring 2013.
+
+{% youtube WAYa7jJyNfg %}
 
 ### Neal's Lodge
 The following performances were recorded August 2012 at Neal's Lodge in Concan, TX.
