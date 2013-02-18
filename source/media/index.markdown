@@ -6,7 +6,7 @@ footer: false
 ---
 
 ## Music
-We are in the process of finalizing our first album, available soon on iTunes and Amazon MP3.  Please check out our [Soundcloud](http://soundcloud.com/roadhome) page until then.
+We are in the process of finalizing our first album, available soon on [Bandcamp](http://roadhome.bandcamp.com), CDBaby, iTunes, and Amazon MP3.  Please check out our [Soundcloud](http://soundcloud.com/roadhome) page until then.
 
 ## Videos
 Follow our [Youtube channel](http://www.youtube.com/user/roadhomeband) for the latest performances from Road Home.
