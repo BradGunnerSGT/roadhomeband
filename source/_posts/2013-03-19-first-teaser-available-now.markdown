@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "first teaser available now"
+title: "First teaser available now"
 date: 2013-03-19 22:17
 comments: true
 categories: 
