@@ -6,4 +6,5 @@ comments: true
 categories: 
 ---
 
-Check it out, our first teaser for our new album "World's Unknown" is available at http:roadhomeband.net right now.
+Check it out, our first teaser for our new album "World's Unknown" is available
+at http://roadhomeband.net right now.
