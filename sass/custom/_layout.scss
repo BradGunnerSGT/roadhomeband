@@ -15,10 +15,10 @@ $indented-lists: true;
 //$pad-wide: 55px;
 
 // Sidebar widths used in media queries
-//$sidebar-width-medium: 240px;
-//$sidebar-pad-medium: 15px;
-//$sidebar-pad-wide: 20px;
-//$sidebar-width-wide: 300px;
+$sidebar-width-medium: 300;
+$sidebar-pad-medium: 15px;
+$sidebar-pad-wide: 20px;
+$sidebar-width-wide: 400px;
 
 @media only screen {
     body > header { text-align: right; }
