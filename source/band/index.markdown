@@ -5,8 +5,8 @@ sharing: false
 footer: false
 ---
 {% img left /band/kevin.jpg %}
-##Kevin Adams - Vocals, Guitars
-Kevin Adams is from San Antonio, Texas where he started his dream to be a
+##Kevin Harwi - Vocals, Guitars
+Kevin Harwi is from San Antonio, Texas where he started his dream to be a
 country musician. He has performed with local bands like Myer Anderson and
 Robert Demel.  Kevin draws inspiration from musicians like Brad Paisley, Gary
 Allen, and Alan Jackson.  Kevin plays Takamine, Segal, and Fender Stratocaster
@@ -31,7 +31,7 @@ influencing his sound.
 
 {% img left /band/mark.jpg %}
 ##Mark McCoy - Drums and Percussion
-Mark was born and raised in San Antonio and has played drums and percussion in
-several bands throughout the years, ranging from the “heavy lounge” of Gnat
-King Kong to funk to rock to country.  Mark plays Gretsch drums, Vic Firth
-sticks, and Paiste cymbals.
+[Mark McCoy](http://markmccoy.us "Mark's Blog") was born and raised in San Antonio
+and has played drums and percussion in several bands throughout the years,
+ranging from the “heavy lounge” of Gnat King Kong to funk to rock to country.
+Mark plays Gretsch drums, Vic Firth sticks, and Paiste cymbals. 
