@@ -4,6 +4,25 @@
 
 // suggested by https://github.com/imathis/octopress/issues/356
 header[role="banner"] {
-     background-image: url(/images/custom/rh-header-bg.png);
+     background-image: url(/images/custom/rh-header-bg.jpg);
      background-repeat: no-repeat;
+}
+
+#content .blog-index article h1 {
+    font-size: 1.8em;
+    font-weight: normal;
+}
+ 
+h1 { font-size: 1.8em; }
+ 
+h1 span{
+    font-weight: normal;
+    color: #E0841B;
+}
+ 
+.blog-index article h1 a:hover{ text-decoration: none; }
+ 
+article p {
+    text-align:justify;
+    margin-bottom: 1em;
 }

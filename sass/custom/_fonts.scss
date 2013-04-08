@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: plane-crash;
-    src: url('assets/plane-crash.ttf') format('opentype')
+    src: url('/assets/plane-crash.ttf');
 }
 
 $sans: "Rambla", "Futura", sans-serif;
@@ -13,5 +13,5 @@ $serif: "Noticia Text", serif;
 
 //$mono: "Courier", monospace;
 //$heading-font-family: "Verdana", sans-serif;
-$header-title-font-family: plane-crash, "Rock Salt", "Rambla", sans-serif;
+$header-title-font-family: "plane-crash", "Rock Salt", "Rambla", sans-serif;
 $header-subtitle-font-family: "Permanent Marker", "Rambla", sans-serif
