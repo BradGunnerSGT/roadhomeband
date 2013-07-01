@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Band Info"
 comments: false
 sharing: false
 footer: false
