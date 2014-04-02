@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: video | road home]]></title>
+  <link href="http://roadhomeband.net/news/categories/video/atom.xml" rel="self"/>
+  <link href="http://roadhomeband.net/"/>
+  <updated>2014-04-01T21:02:10-05:00</updated>
+  <id>http://roadhomeband.net/</id>
+  <author>
+    <name><![CDATA[Road Home Band]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Road Home live on the Science of Sound]]></title>
+    <link href="http://roadhomeband.net/news/2013/02/14/road-home-live-on-the-science-of-sound/"/>
+    <updated>2013-02-14T14:11:00-06:00</updated>
+    <id>http://roadhomeband.net/news/2013/02/14/road-home-live-on-the-science-of-sound</id>
+    <content type="html"><![CDATA[<p>Check this out everyone!  Road Home was recently featured on the Science of
+Sound, a joint production of San Antonio College and Time Warner Cable.</p>
+
+<!-- more -->
+
+
+<p>We went into the KSYM studios at SAC and performed a baker&rsquo;s dozen of Road Home
+songs for the cameras.  All aspects of the performance were filmed, recorded,
+and produced by the SAC students in the Radio-Television-Broadcasting program.</p>
+
+<p>We had a great time filming this episode and we hope you enjoy!</p>
+
+<p><iframe width="" height="" src="http://www.youtube.com/embed/WAYa7jJyNfg " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+]]></content>
+  </entry>
+  
+</feed>
