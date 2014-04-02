@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "video"
+title: "Video"
 comments: false
 sharing: false
 footer: false
